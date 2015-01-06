@@ -116,7 +116,7 @@ body div{
 }
 
 .enabled {
-    background: #ff5c00 url(alert-overlay.png) repeat-x;
+    background: #ff5c00 url(images/alert-overlay.png) repeat-x;
     cursor: pointer;
 }
 .cursored {
@@ -130,26 +130,26 @@ body div{
 }
 
 .deviceicon {
-   content:url("./AirplaySmall.png");
+   content:url("images/AirplaySmall.png");
 }
 
 .chromeicon {
-   content:url("./ChromecastSmall.png");
+   content:url("images/ChromecastSmall.png");
 }
 
 .playbutton {
-    content:url("./play.png");
+    content:url("images/play.png");
     cursor:pointer;
 }
 
 .forwardbutton {
-    content:url("./forward.png");
+    content:url("images/forward.png");
     cursor:pointer;
 }
 
 
 .rewindbutton {
-    content:url("./rewind.png");
+    content:url("images/rewind.png");
     cursor:pointer;
 }
 
@@ -157,25 +157,25 @@ body div{
 
 .stopbutton {
     margin-top: -20px;
-   content:url("./stop.png");
+   content:url("images/stop.png");
     cursor:pointer;
 }
 
 .pausebutton {
     margin-top: -20px;
-   content:url("./pause.png");
+   content:url("images/pause.png");
     margin-right:9px;
     cursor:pointer;
 }
 
 .deviceiconOff {
     
-    content:url("./AirplaySmallOff.png");
+    content:url("images/AirplaySmallOff.png");
 }
 
 .ChromedeviceiconOff {
     
-    content:url("./ChromecastSmallOff.png");
+    content:url("images/ChromecastSmallOff.png");
 }
 
 .controlbutton {
@@ -190,7 +190,7 @@ body div{
 }
 
 #topimages {
-    background: url(logostop.png) no-repeat;
+    background: url(images/logostop.png) no-repeat;
     margin-top: 25px;
     margin-bottom: -25px;
     height: 100px;
@@ -203,7 +203,7 @@ body div{
     clear: both;
     width:auto; 
     max-height:100%;
-    background-image: url(AirplayIcon.png);
+    background-image: url(images/AirplayIcon.png);
 }
 .device {
     font-size: 0.5em;
@@ -215,7 +215,7 @@ body div{
 .processing-icon {
     content:"Hola";
     margin:auto;
-    background-image: url(loading.gif);
+    background-image: url(images/loading.gif);
     width:32px;
     height:32px;
 }

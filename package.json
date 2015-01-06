@@ -37,7 +37,9 @@
     "simple-cors-file-server": "*",
     "srt2vtt2": "0.0.2",
     "underscore": "^1.7.0",
-    "util": "^0.10.3"
+    "util": "^0.10.3",
+    "iconv-lite": "^0.4.5",
+    "subtitles-server": "0.0.3"
   },
   "window": {
     "title": "TorrenTV",
